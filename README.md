@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+I'm Alshifa sulfikar an engineering student 
+🌱I'm currently learning python , sql,and java
+I'm also interested in visualisation 
+This is my small profile where i'll be uploding some small projects,experiments,and things I'm currently working on.
+Everything here is built from scratch ,no copy/paste templates.
 <!--
 **alshifasulfikar/alshifasulfikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
